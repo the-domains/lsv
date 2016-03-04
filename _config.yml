@@ -1,0 +1,28 @@
+name: lsv
+favicon: null
+layout_spectrum: 0.023780978983268142
+typography_spectrum: 0.465263145044446
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6247217187192291
+  lightness: 0.4570660390891135
+  saturation: 0.06386487768031657
+  rhythmicContrast: 0.005269255023449659
+purpose: []
